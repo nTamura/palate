@@ -1,0 +1,45 @@
+body {
+  font-family: 'Raleway', sans-serif;
+}
+
+.parallax {
+  display: flex;
+  background-image:url(https://i.ytimg.com/vi/FFAD8QpR-QI/maxresdefault.jpg);
+  height: 75vh;
+  width: 100%;
+  background-attachment: fixed;
+  background-position: top;
+  background-repeat: no-repeat;
+  background-size: cover;
+  justify-content: center;
+  /*align-content: center;*/
+}
+
+.parallaxtext{
+  /*display: flex;*/
+  /*color: white;*/
+  font-size: 32px;
+  /*text-shadow: 2px 2px 4px #000000;*/
+  text-align: center;
+  /*position: stat*/
+  align-items: center;
+  justify-content: center;
+  /*flex-direction: column;*/
+}
+
+.contactnow {
+  /*font-weight: bolder;*/
+  color: rgb(27, 151, 255);
+  font-weight: 800;
+  text-decoration: underline;
+};
+
+.threerow{
+  /*display: flex;*/
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+}
+.col-sm-4{
+  text-align: center;
+}
