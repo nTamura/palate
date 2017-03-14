@@ -43,3 +43,16 @@ body {
 .col-sm-4{
   text-align: center;
 }
+.titles{
+  /*justify-content: center;*/
+  /*align-items: center;*/
+  text-align: center;
+  /*align-self: center;*/
+}
+.texts{
+  font-size: 1.3em;
+}
+.helpdesk{
+  float: left;
+  max-width: 220px;
+}
