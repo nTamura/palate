@@ -3,7 +3,7 @@
 
 
 ## TODO LIST:
-  1. index.html
+  - index.html
     1. main
         * 3 focus icons
         * add services
@@ -17,7 +17,7 @@
         * small logo on brand
         * !container doesnt match
 
-  2. contact.html
+  - contact.html
       * glyphicon icons for contact
       * about writeup
 
