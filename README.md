@@ -1,5 +1,5 @@
 # Palate Networks
-[View preview on GitHug](https://ntamura.github.io/palate/)
+[View preview on GitHub](https://ntamura.github.io/palate/)
 
 
 ## TODO LIST:
@@ -27,4 +27,4 @@
   * news/blog
   * affiliates
   * contact form instead
-  * domain hosting 
+  * domain hosting
