@@ -4,7 +4,7 @@
 
 ## TODO LIST:
   1. index.html
-    - main
+    main
         * 3 focus icons
         * add services
         * what can we do for you
@@ -12,7 +12,7 @@
         * client list
         * footer
 
-    - navbar
+    navbar
         * hamburger menu
         * small logo on brand
         * !container doesnt match
