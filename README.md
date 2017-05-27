@@ -17,14 +17,22 @@
         * small logo on brand
         * !container doesnt match
 
+    - footer
+        * company
+        * support
+        * partners
+        * social links
+
   - contact.html
       * glyphicon icons for contact
       * about writeup
 
 
-
 ## FUTURE IMPLEMENTATIONS:
-  * news/blog
+  * migrate everything to materialize
+  * migrate to rails
+  * implement admin user
+  * admin can update news/blog
   * affiliates
   * contact form instead
   * domain hosting
