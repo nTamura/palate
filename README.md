@@ -1,38 +1,6 @@
 # Palate Networks
-[View preview on GitHub](https://ntamura.github.io/palate/)
+Palate Networks is located in the located in the beautiful city of Vancouver, in the heart of historic Chinatown. We provide IT solutions and consultations for small to medium size businesses.
 
 
-## TODO LIST:
-  - index.html
-    - main
-        * 3 focus icons
-        * add services
-        * what can we do for you
-        * !optimize for mobile
-        * client list
-        * footer
-
-    - navbar
-        * hamburger menu
-        * small logo on brand
-        * !container doesnt match
-
-    - footer
-        * company
-        * support
-        * partners
-        * social links
-
-  - contact.html
-      * glyphicon icons for contact
-      * about writeup
-
-
-## FUTURE IMPLEMENTATIONS:
-  * migrate everything to materialize
-  * migrate to rails
-  * implement admin user
-  * admin can update news/blog
-  * affiliates
-  * contact form instead
-  * domain hosting
+## ABOUT
+Static website for a client, built with HTML5, CSS, and Materialize CSS framework.
