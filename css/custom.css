@@ -21,6 +21,11 @@ margin-top: 15px;
   transform: translateY(-50%);
 }
 
+.card-panel {
+  width: auto;
+  height: 92px;
+  justify-content: center;
+}
 #header-image {
   max-width: 100%;
 }
